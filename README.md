@@ -1,6 +1,6 @@
 # Surge App - Frontend & API Client
 
-This is the frontend and API client for the Surge app project, built with [Expo](https://expo.dev) and managed with [bun](https://bun.sh).
+This is the frontend and API client for the Surge mobile app project, built with [Expo](https://expo.dev) and managed with [bun](https://bun.sh).
 
 ## Get started
 
